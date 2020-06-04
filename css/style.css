@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+  }
+  
+  h1 {
+    border: 2px solid khaki;
+    background: pink;
+  }
+  
+  a {
+    color: rgb (255, 20, 147);
+  }
+  
+  .new {
+    color: green;
+  }
+  
+  .new span {
+    color: red;
+  }
+  
+  #block {
+    background: pink;
+  }
+  
+  .cite {
+    border: 2px solid khaki;
+    background: pink;
+  }
+  
+  img {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+  }
